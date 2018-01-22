@@ -1,0 +1,9 @@
+{
+  "token":"Fill In Toekn",
+  "prefix":"&",
+  "API_key":"Fill In API KEY",
+  "youtubeID":"UCfYQJa2qGuCy6z87UBHhA8A",
+  "username":"SmashGaming999",
+  "defaultRole":"Smashers",
+  "staffRoles": ["Big Boss", "Admins", "Mods"]
+}
